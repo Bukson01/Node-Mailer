@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.7.8"
+  },
+  "name": "pro_nodemailer",
+  "version": "1.0.0",
+  "description": "send_email",
+  "main": "w3sch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "buks",
+  "license": "ISC",
+  "keywords": []
+}
